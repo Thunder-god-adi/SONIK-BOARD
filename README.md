@@ -14,38 +14,33 @@ I built this keybaord i want to prove that i can also built something like thisa
 
 ## SCHEMATICS
 
-<img width="1451" height="920" alt="Screenshot 2026-04-04 001010" src="https://github.com/user-attachments/assets/64a2dd25-6b90-4889-9339-bad8a885dfd3" />
-
+<img width="1451" height="920" alt="Screenshot 2026-04-04 001010" src="https://github.com/user-attachments/assets/90085ef2-a216-44c3-9446-9cb89ca45f1f" />
 
 
 ## PCB 
 
-<img width="1591" height="716" alt="Screenshot 2026-04-04 142751" src="https://github.com/user-attachments/assets/087747be-27a0-4886-9096-93b9b94ef8b8" />
+<img width="1591" height="716" alt="Screenshot 2026-04-04 142751" src="https://github.com/user-attachments/assets/d9da5a1f-cc2a-4b37-8149-576f25b5cc01" />
 
-<img width="1616" height="657" alt="Screenshot 2026-04-04 143652" src="https://github.com/user-attachments/assets/62197a95-9f95-4346-824e-b8814544fbb1" />
-
-<img width="1581" height="674" alt="Screenshot 2026-04-04 143630" src="https://github.com/user-attachments/assets/99b5eb7c-85cd-4186-96c5-c6f84b9e5ba8" />
-
+<img width="1465" height="710" alt="Screenshot 2026-04-04 142814" src="https://github.com/user-attachments/assets/aaefd9f5-568a-40da-9c22-62fa4e104fad" />
 
 ## CAD
 
 **TOP PLATE**
 
-<img width="1300" height="830" alt="Screenshot 2026-03-10 013304" src="https://github.com/user-attachments/assets/21bbf093-1570-41c6-aa29-a3a812dc67c7" />
+<img width="1322" height="786" alt="Screenshot 2026-03-11 152754" src="https://github.com/user-attachments/assets/6ddc6609-e3b6-411e-81b0-caa4890f599f" />
 
 
 **BOTTOM PLATE **
 
-<img width="1904" height="852" alt="Screenshot 2026-03-09 223502" src="https://github.com/user-attachments/assets/61504765-7024-4400-b7f3-8852b91dfa12" />
-
+<img width="1262" height="795" alt="Screenshot 2026-04-04 153412" src="https://github.com/user-attachments/assets/15b43377-7023-427b-875d-c76e95106c12" />
 
 **ASSEMBLY**
 
-<img width="1288" height="709" alt="Screenshot 2026-03-10 014947" src="https://github.com/user-attachments/assets/9f3fe731-39b5-49ec-9947-c29c48d9d957" />
+<img width="1165" height="779" alt="Screenshot 2026-04-05 151829" src="https://github.com/user-attachments/assets/f339d68a-3d26-49e9-a91d-ed4c22a56d6d" />
 
 **DRC**
 
-<img width="712" height="603" alt="Screenshot 2026-03-10 141104" src="https://github.com/user-attachments/assets/b9439903-f3df-4b28-a48b-cb198223fd40" />
+<img width="712" height="603" alt="Screenshot 2026-03-10 141104" src="https://github.com/user-attachments/assets/444a8652-6575-4edd-bc05-6a621df7b4de" />
 
 
 **BOM**
@@ -62,7 +57,6 @@ I built this keybaord i want to prove that i can also built something like thisa
 | **TOTAL**           |                 |            |     | **$95.20**  |             |
 **JLC CART**
 
-<img width="1838" height="779" alt="Screenshot 2026-05-29 181318" src="https://github.com/user-attachments/assets/67468fbe-ec6f-4391-827a-de835c3379fa" />
+<img width="1816" height="817" alt="Screenshot 2026-06-26 124931" src="https://github.com/user-attachments/assets/3b6c5477-b632-459c-8567-b5cc5a7ad32b" />
 
-<img width="1471" height="751" alt="image" src="https://github.com/user-attachments/assets/221e4bba-67aa-4c56-bf81-0a1cf448106b" />
-
+<img width="1271" height="792" alt="image" src="https://github.com/user-attachments/assets/d047edcc-8ca6-4d6b-b097-088ca9ee5146" />
